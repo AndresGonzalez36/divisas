@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    justify-content: center;
+}
+hr{
+    
+    color: white;
+    margin: 50px;
+}
+main{
+    display:grid;
+    justify-content:center ;
+}
+.titulo{
+    display: flex;
+    
+    justify-content: center;
+    color: white;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: gray;
+    gap: 10px;
+}
+#resultado{
+    color: white;
+}
